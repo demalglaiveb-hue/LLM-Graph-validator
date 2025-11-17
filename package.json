@@ -1,0 +1,12 @@
+{
+  "name": "llm-graph-validator",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "node src/web/app-placeholder.mjs",
+    "start": "node src/web/app-placeholder.mjs"
+  },
+  "dependencies": {},
+  "devDependencies": {}
+}
